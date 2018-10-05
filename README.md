@@ -1,5 +1,5 @@
 ## FCC-Nightlife-App
-##### Build a Nightlife Coordination App project for [freecodecamp.com](https://www.freecodecamp.org/challenges/build-a-nightlife-coordination-app)
+##### Nightlife Coordination project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://yoyo44.herokuapp.com/)
 
 <br/>
@@ -20,12 +20,13 @@
 <br/>
 
 ##### Technologies used to complete this project
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 - React
 - Redux
-- JavaScript
-- HTML
-- Bootstrap
-- CSS
-- Node.js
-- MongoDB
-
+- Node
+- Express
+- Mongo/Mongoose
+- [yelp](https://www.yelp.com/) API
